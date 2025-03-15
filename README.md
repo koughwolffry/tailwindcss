@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  A utility-first CSS framework for rapidly building custom user interfaces.
+  A utility-first CSS framework for rapidly building custom user interfaces. Supports Next.js hell yeah.
 </p>
 
 <p align="center">
